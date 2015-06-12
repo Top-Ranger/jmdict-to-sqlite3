@@ -1,0 +1,12 @@
+# PyCharm
+.idea
+
+#Python
+__pycache__
+*.pyc
+*.pyo
+
+#Input/output file
+JMdict
+JMdict.xml
+JMdict.sqlite3
